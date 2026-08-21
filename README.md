@@ -88,7 +88,7 @@ Currently working towards becoming a **Python Full Stack Developer**.
 
 ## 🤝 Connect With Me
 
-💼 **LinkedIn:** Add your LinkedIn profile link here
+💼 **LinkedIn:** (https://www.linkedin.com/in/rajana-sravyasri-86742a288/)
 
 🐙 **GitHub:** [sravyarajana19](https://github.com/sravyarajana19)
 
